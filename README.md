@@ -1,3 +1,7 @@
+# Important Note
+
+This repostiory is now maintained at https://github.com/espressif/esp-jumpstart/
+
 # ESP-Bootstrap
 
 ## Overview
